@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Learning and living life free. 😄
-
-I Lost my phone and there goes my one an only 2FA app with no backup (**Don't be like**).
-
-    So I take care of my account with OAuth Authentication until it exires.  :| 🤣🤣😁
